@@ -1,0 +1,3 @@
+[submodule "guides/02-Git/Made_Tech_Git_Workshop"]
+	path = guides/02-Git/Made_Tech_Git_Workshop
+	url = https://github.com/Porim/Made_Tech_Git_Workshop
